@@ -1,106 +1,84 @@
-body{
+body {
     background-color: #003049;
 }
 
-.tanim1{
+/* TÜM KUTULARDA ORTAK */
+.kutu {
     background-color: #669bbc;
+    margin: 0 auto;
+    border: solid 5px #fdf0d5;
+    border-radius: 50px;
+    text-align: center;
+}
+
+/* ANA SAYFA */
+
+.tanim1 {
+    width: 500px;
     height: 120px;
-    width: 500px;
-    margin: 0 auto;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
 }
 
-.tanim2{
-    background-color: #669bbc;
+.tanim2 {
+    width: 500px;
     height: 300px;
-    width: 500px;
-    margin: 0 auto;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
-    margin-top: 30px;   
+    margin-top: 30px;
 }
 
-.ileri{
-    background-color: #669bbc;
-    height: px;
+.ileri {
     width: 60px;
-    margin: 0 auto;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
     margin-top: 30px;
 }
 
 .harita {
-    background-color: #669bbc;
     width: 500px;
-    margin: 0 auto;
     padding: 20px;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
-    text-align: center;
     margin-top: 30px;
+    text-align: center;
 }
 
-.GenesisTanim{
-    background-color: #669bbc;
-    height: 120px;
+.harita th,
+.harita td {
+    border: 1px solid #fdf0d5;
+}
+
+/* PROJELER SAYFASI */
+
+.GenesisTanim {
     width: 500px;
-    margin: 0 auto;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
+    height: 120px;
     margin-top: 30px;
     padding-top: 15px;
 }
 
-.projelerim{
-     background-color: #669bbc;
-    height: 30px;
+.projelerim {
     width: 230px;
-    margin: 0 auto;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
+    height: 30px;
     margin-top: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
-.gökbörü{
-    background-color: #669bbc;
-    height: 110px;
+.gökbörü {
     width: 500px;
-    margin: 0 auto;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
+    height: 110px;
     margin-top: 30px;
 }
 
-.yazilim{
-    background-color: #669bbc;
+.yazilim {
+    width: 450px;
     height: 90px;
-    width: 450px;
-    margin: 0 auto;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
     padding-top: 15px;
+    margin-top: 30px;
 }
 
-.yayincilik{
-    background-color: #669bbc;
+.yayincilik {
+    width: 450px;
     height: 75px;
-    width: 450px;
-    margin: 0 auto;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
     padding-top: 15px;
+    margin-top: 30px;
 }
 
-.ileriev{
-    background-color: #669bbc;
-    height: px;
+.ileriev {
     width: 150px;
-    margin: 0 auto;
-    border: solid 5px #fdf0d5;
-    border-radius: 50px;
     margin-top: 30px;
 }
