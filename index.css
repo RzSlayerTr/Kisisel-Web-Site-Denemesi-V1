@@ -1,0 +1,43 @@
+body{
+    background-color: #003049;
+}
+
+.tanim1{
+    background-color: #669bbc;
+    height: 120px;
+    width: 500px;
+    margin: 0 auto;
+    border: solid 5px #fdf0d5;
+    border-radius: 50px;
+}
+
+.tanim2{
+    background-color: #669bbc;
+    height: 300px;
+    width: 500px;
+    margin: 0 auto;
+    border: solid 5px #fdf0d5;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+
+.ileri{
+    background-color: #669bbc;
+    height: px;
+    width: 60px;
+    margin: 0 auto;
+    border: solid 5px #fdf0d5;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+
+.harita {
+    background-color: #669bbc;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: solid 5px #fdf0d5;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 30px;
+}
